@@ -65,7 +65,7 @@ text 长度限制为 1000 字，不可包含不合规的外部 URL 链接：
 
 发送文本消息请求示例：
 
-```JSON
+```
 curl -X POST https://im-open.douyin.com/im/send/msg \
      -H "Content-Type: application/json" \
      -H "access-token: xxx4ulTL33iJs5mnCXU6SLJko="   \
